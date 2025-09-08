@@ -4,5 +4,8 @@ public class Lab001_HelloWorld {
         System.out.println("ADITYA PRAKASH");
         System.out.println("ADITYA PRAKASH");
         System.out.println("ADITYA PRAKASH");
+        System.out.println("ADITYA PRAKASH");
+        System.out.println("ADITYA PRAKASH");
+        System.out.println("ADITYA PRAKASH");
     }
 }
