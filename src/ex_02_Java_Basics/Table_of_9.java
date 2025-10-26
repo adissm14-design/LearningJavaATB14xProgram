@@ -1,6 +1,5 @@
 package ex_02_Java_Basics;
 
-import com.sun.nio.sctp.SctpSocketOption;
 
 public class Table_of_9 {
     public static void main(String[] args) {
